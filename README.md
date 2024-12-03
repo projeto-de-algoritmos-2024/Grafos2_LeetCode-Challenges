@@ -19,17 +19,17 @@ O objetivo é abordar o conteúdo lecionado em sala de aula de forma simples e i
 Os exercícios abordados são os seguintes
 | Código do Problema | Nome do Problema | Dificuldade |
 | ------------------ | ---------------- | ----------- |
-| . | | Médio |
-| . | | Difícil |
+| [743](https://leetcode.com/problems/network-delay-time/description/?envType=problem-list-v2&envId=shortest-path) | Network Delay Time| Médio |
+| [2642](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/description/) | Design Graph With Shortest Path Calculator | Difícil |
 | . | | Difícil |
 
 ## Screenshots
+ 
+### Network Delay Time
+![NetworkDelayTime](NetworkDelayTime.JPG)
 
-### 
-![]()
-
-### 
-![]()
+### Design Graph With Shortest Path Calculator 
+![Design Graph With Shortest Path Calculator]()
 
 ### 
 ![]()
@@ -38,9 +38,9 @@ Os exercícios abordados são os seguintes
 
 | Problema |
 | ------------------ |
-| []()| 
-| []()| 
-| []()| 
+| [743. Network Delay Time](https://youtu.be/6By4HyWQnpM)| 
+| [2642. Design Graph With Shortest Path Calculator](https://www.youtube.com/watch?v=Z0KzZCsAfP0)| 
+| []() | 
 
 ## Instalação 
 **Linguagem**: C++ e Python
