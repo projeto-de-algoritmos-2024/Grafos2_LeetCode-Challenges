@@ -21,7 +21,7 @@ Os exercícios abordados são os seguintes
 | ------------------ | ---------------- | ----------- |
 | [743](https://leetcode.com/problems/network-delay-time/description/?envType=problem-list-v2&envId=shortest-path) | Network Delay Time| Médio |
 | [2642](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/description/) | Design Graph With Shortest Path Calculator | Difícil |
-| [3123](https://leetcode.com/problems/find-edges-in-shortest-paths/description/)] | Find Edges in Shortest Paths | Difícil |
+| [3123](https://leetcode.com/problems/find-edges-in-shortest-paths/description/) | Find Edges in Shortest Paths | Difícil |
 
 ## Screenshots
  
