@@ -21,7 +21,7 @@ Os exercícios abordados são os seguintes
 | ------------------ | ---------------- | ----------- |
 | [743](https://leetcode.com/problems/network-delay-time/description/?envType=problem-list-v2&envId=shortest-path) | Network Delay Time| Médio |
 | [2642](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/description/) | Design Graph With Shortest Path Calculator | Difícil |
-| . | | Difícil |
+| [3123](https://leetcode.com/problems/find-edges-in-shortest-paths/description/)] | Find Edges in Shortest Paths | Difícil |
 
 ## Screenshots
  
@@ -40,7 +40,7 @@ Os exercícios abordados são os seguintes
 | ------------------ |
 | [743. Network Delay Time](https://youtu.be/6By4HyWQnpM)| 
 | [2642. Design Graph With Shortest Path Calculator](https://www.youtube.com/watch?v=Z0KzZCsAfP0)| 
-| []() | 
+| [3123. Find Edges in Shortest Paths](https://youtu.be/saG7FKLBaig)] |
 
 ## Instalação 
 **Linguagem**: C++ e Python
